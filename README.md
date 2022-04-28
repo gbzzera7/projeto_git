@@ -14,3 +14,9 @@ git config --global user.email "seu email aqui"
 git push origin main # envia do local para o remoto
 git pull origin main # traz do remoto para o local
 ```
+
+## Logos
+![git](imagens/git.png)
+
+## Fontes
+Este site foi construído usando [MarkDown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
