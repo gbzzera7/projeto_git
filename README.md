@@ -16,7 +16,16 @@ git pull origin main # traz do remoto para o local
 ```
 
 ## Logos
-![git](imagens/git.png)
+![Imagem da logo doGit](imagens/git.png)
+
+## Páginas
+[Scrum](scrum.md)
+
+[Kanban](kanban.md)
+
+[Comandos básicos de git](comandos_basicos.md)
 
 ## Fontes
-Este site foi construído usando [MarkDown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Documentação da linguagem [MarkDown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+Texto legal
